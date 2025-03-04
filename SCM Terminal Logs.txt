@@ -1,0 +1,223 @@
+Fold 1/3
+Some weights of BertForTokenClassification were not initialized from the model checkpoint at SpanBERT/spanbert-large-cased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+
+Epoch 1/3
+
+Train
+Batch 50/355 - Average Loss: 0.1962
+Batch 100/355 - Average Loss: 0.1593
+Batch 150/355 - Average Loss: 0.1298
+Batch 200/355 - Average Loss: 0.1075
+Batch 250/355 - Average Loss: 0.0918
+Batch 300/355 - Average Loss: 0.0813
+Batch 350/355 - Average Loss: 0.0726
+Train Metrics:
+Precision: 0.9766, Recall: 0.9785, F1-Score: 0.9773, Accuracy: 0.9785
+
+Validation
+Batch 50/178 - Average Loss: 0.0144
+Batch 100/178 - Average Loss: 0.0150
+Batch 150/178 - Average Loss: 0.0152
+Validation Metrics:
+Precision: 0.9974, Recall: 0.9974, F1-Score: 0.9974, Accuracy: 0.9974
+
+Epoch 2/3
+
+Train
+Batch 50/355 - Average Loss: 0.0181
+Batch 100/355 - Average Loss: 0.0171
+Batch 150/355 - Average Loss: 0.0171
+Batch 200/355 - Average Loss: 0.0171
+Batch 250/355 - Average Loss: 0.0169
+Batch 300/355 - Average Loss: 0.0166
+Batch 350/355 - Average Loss: 0.0162
+Train Metrics:
+Precision: 0.9974, Recall: 0.9974, F1-Score: 0.9974, Accuracy: 0.9974
+
+Validation
+Batch 50/178 - Average Loss: 0.0130
+Batch 100/178 - Average Loss: 0.0135
+Batch 150/178 - Average Loss: 0.0138
+Validation Metrics:
+Precision: 0.9976, Recall: 0.9976, F1-Score: 0.9976, Accuracy: 0.9976
+
+Epoch 3/3
+
+Train
+Batch 50/355 - Average Loss: 0.0150
+Batch 100/355 - Average Loss: 0.0155
+Batch 150/355 - Average Loss: 0.0155
+Batch 200/355 - Average Loss: 0.0156
+Batch 250/355 - Average Loss: 0.0158
+Batch 300/355 - Average Loss: 0.0154
+Batch 350/355 - Average Loss: 0.0148
+Train Metrics:
+Precision: 0.9974, Recall: 0.9974, F1-Score: 0.9974, Accuracy: 0.9974
+
+Validation
+Batch 50/178 - Average Loss: 0.0294
+Batch 100/178 - Average Loss: 0.0301
+Batch 150/178 - Average Loss: 0.0302
+Validation Metrics:
+Precision: 0.9917, Recall: 0.9889, F1-Score: 0.9897, Accuracy: 0.9889
+
+Evaluating Fold 1 on Test Set
+
+Validation
+Batch 50/94 - Average Loss: 0.0296
+Validation Metrics:
+Precision: 0.9918, Recall: 0.9891, F1-Score: 0.9899, Accuracy: 0.9891
+
+Fold 2/3
+Some weights of BertForTokenClassification were not initialized from the model checkpoint at SpanBERT/spanbert-large-cased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+
+Epoch 1/3
+
+Train
+Batch 50/355 - Average Loss: 0.2037
+Batch 100/355 - Average Loss: 0.1671
+Batch 150/355 - Average Loss: 0.1441
+Batch 200/355 - Average Loss: 0.1182
+Batch 250/355 - Average Loss: 0.1017
+Batch 300/355 - Average Loss: 0.0895
+Batch 350/355 - Average Loss: 0.0798
+Train Metrics:
+Precision: 0.9741, Recall: 0.9761, F1-Score: 0.9749, Accuracy: 0.9761
+
+Validation
+Batch 50/178 - Average Loss: 0.0223
+Batch 100/178 - Average Loss: 0.0219
+Batch 150/178 - Average Loss: 0.0218
+Validation Metrics:
+Precision: 0.9965, Recall: 0.9965, F1-Score: 0.9965, Accuracy: 0.9965
+
+Epoch 2/3
+
+Train
+Batch 50/355 - Average Loss: 0.0237
+Batch 100/355 - Average Loss: 0.0223
+Batch 150/355 - Average Loss: 0.0208
+Batch 200/355 - Average Loss: 0.0191
+Batch 250/355 - Average Loss: 0.0182
+Batch 300/355 - Average Loss: 0.0180
+Batch 350/355 - Average Loss: 0.0176
+Train Metrics:
+Precision: 0.9972, Recall: 0.9972, F1-Score: 0.9972, Accuracy: 0.9972
+
+Validation
+Batch 50/178 - Average Loss: 0.0167
+Batch 100/178 - Average Loss: 0.0159
+Batch 150/178 - Average Loss: 0.0158
+Validation Metrics:
+Precision: 0.9975, Recall: 0.9975, F1-Score: 0.9975, Accuracy: 0.9975
+
+Epoch 3/3
+
+Train
+Batch 50/355 - Average Loss: 0.0190
+Batch 100/355 - Average Loss: 0.0165
+Batch 150/355 - Average Loss: 0.0163
+Batch 200/355 - Average Loss: 0.0156
+Batch 250/355 - Average Loss: 0.0153
+Batch 300/355 - Average Loss: 0.0147
+Batch 350/355 - Average Loss: 0.0146
+Train Metrics:
+Precision: 0.9975, Recall: 0.9975, F1-Score: 0.9975, Accuracy: 0.9975
+
+Validation
+Batch 50/178 - Average Loss: 0.0164
+Batch 100/178 - Average Loss: 0.0155
+Batch 150/178 - Average Loss: 0.0155
+Validation Metrics:
+Precision: 0.9975, Recall: 0.9975, F1-Score: 0.9975, Accuracy: 0.9975
+
+Evaluating Fold 2 on Test Set
+
+Validation
+Batch 50/94 - Average Loss: 0.0115
+Validation Metrics:
+Precision: 0.9979, Recall: 0.9979, F1-Score: 0.9979, Accuracy: 0.9979
+
+Fold 3/3
+Some weights of BertForTokenClassification were not initialized from the model checkpoint at SpanBERT/spanbert-large-cased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+
+Epoch 1/3
+
+Train
+Batch 50/355 - Average Loss: 0.2092
+Batch 100/355 - Average Loss: 0.1712
+Batch 150/355 - Average Loss: 0.1587
+Batch 200/355 - Average Loss: 0.1532
+Batch 250/355 - Average Loss: 0.1497
+Batch 300/355 - Average Loss: 0.1473
+Batch 350/355 - Average Loss: 0.1454
+Train Metrics:
+Precision: 0.9420, Recall: 0.9632, F1-Score: 0.9523, Accuracy: 0.9632
+
+Validation
+Batch 50/178 - Average Loss: 0.1375
+Batch 100/178 - Average Loss: 0.1365
+Batch 150/178 - Average Loss: 0.1353
+Validation Metrics:
+Precision: 0.9411, Recall: 0.9701, F1-Score: 0.9554, Accuracy: 0.9701
+
+Epoch 2/3
+
+Train
+Batch 50/355 - Average Loss: 0.1337
+Batch 100/355 - Average Loss: 0.1332
+Batch 150/355 - Average Loss: 0.1340
+Batch 200/355 - Average Loss: 0.1347
+Batch 250/355 - Average Loss: 0.1341
+Batch 300/355 - Average Loss: 0.1345
+Batch 350/355 - Average Loss: 0.1345
+Train Metrics:
+Precision: 0.9411, Recall: 0.9701, F1-Score: 0.9554, Accuracy: 0.9701
+
+Validation
+Batch 50/178 - Average Loss: 0.1373
+Batch 100/178 - Average Loss: 0.1363
+Batch 150/178 - Average Loss: 0.1351
+Validation Metrics:
+Precision: 0.9411, Recall: 0.9701, F1-Score: 0.9554, Accuracy: 0.9701
+
+Epoch 3/3
+
+Train
+Batch 50/355 - Average Loss: 0.1337
+Batch 100/355 - Average Loss: 0.1350
+Batch 150/355 - Average Loss: 0.1356
+Batch 200/355 - Average Loss: 0.1363
+Batch 250/355 - Average Loss: 0.1353
+Batch 300/355 - Average Loss: 0.1341
+Batch 350/355 - Average Loss: 0.1343
+Train Metrics:
+Precision: 0.9411, Recall: 0.9701, F1-Score: 0.9554, Accuracy: 0.9701
+
+Validation
+Batch 50/178 - Average Loss: 0.1374
+Batch 100/178 - Average Loss: 0.1365
+Batch 150/178 - Average Loss: 0.1353
+Validation Metrics:
+Precision: 0.9411, Recall: 0.9701, F1-Score: 0.9554, Accuracy: 0.9701
+
+Evaluating Fold 3 on Test Set
+
+Validation
+Batch 50/94 - Average Loss: 0.1360
+Validation Metrics:
+Precision: 0.9408, Recall: 0.9699, F1-Score: 0.9551, Accuracy: 0.9699
+
+Aggregate Results Across All Folds (Test Set):
+Average Precision: 0.9768
+Average Recall: 0.9856
+Average F1-Score: 0.9810
+Average Accuracy: 0.9856
+
+Best performing model was from Fold 2 with F1-Score: 0.9979
+Saving best model from Fold 2
+
+

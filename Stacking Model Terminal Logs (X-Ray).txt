@@ -1,0 +1,57 @@
+Loading model: ResNet18
+Loading model: ConvNeXtTiny
+Loading model: EfficientNetV2S
+Loading model: DenseNet121
+Tuning hyperparameters for LR
+Tuning hyperparameters for GB
+Tuning hyperparameters for RF
+Tuning hyperparameters for AB
+Tuning hyperparameters for ET
+Tuning hyperparameters for LGB
+
+Fold 1 Metrics:
+AUC: 0.9788
+F1 Score: 0.8555
+Precision: 0.8337
+Recall: 0.8815
+Accuracy: 0.9467
+
+Fold 2 Metrics:
+AUC: 0.9793
+F1 Score: 0.8562
+Precision: 0.8164
+Recall: 0.9140
+Accuracy: 0.9428
+
+Fold 3 Metrics:
+AUC: 0.9805
+F1 Score: 0.8664
+Precision: 0.8442
+Recall: 0.8929
+Accuracy: 0.9508
+
+Fold 4 Metrics:
+AUC: 0.9796
+F1 Score: 0.8620
+Precision: 0.8316
+Recall: 0.9014
+Accuracy: 0.9475
+
+Fold 5 Metrics:
+AUC: 0.9796
+F1 Score: 0.8603
+Precision: 0.8328
+Recall: 0.8950
+Accuracy: 0.9474
+
+Average Cross-Validation Results for Gradient Boosting Stacking Model:
+Average AUC: 0.9796 ± 0.0006
+Average F1 Score: 0.8601 ± 0.0040
+Average Precision: 0.8318 ± 0.0089
+Average Recall: 0.8970 ± 0.0106
+Average Accuracy: 0.9471 ± 0.0026
+
+Best F1 Score: 0.8664
+Best Threshold: 0.13999999999999999
+
+
