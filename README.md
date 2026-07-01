@@ -1,12 +1,12 @@
-# M³LungXAI: Explainable Multimodal Lung Cancer Diagnosis
+# M³LungXAI-LF: Explainable Multimodal Lung Cancer Diagnosis
 
 This repository contains the complete implementation, training scripts, evaluation code, and deployment system from:
 
-> **"M³LungXAI: Deployable Explainable Multimodal Lung Cancer Diagnosis Through Late Fusion of CT, X-ray, and Clinical Symptoms"**  
+> **"M³LungXAI-LF: An Explainable Multi-Modal Late Fusion System for Improved Clinical Lung Cancer Diagnosis with Automated Medical Reporting"**  
 
 ## Overview
 
-M³LungXAI is the first fully open-source multimodal explainable lung cancer diagnostic system that integrates CT imaging, chest X-ray, and clinical symptom extraction through a modular late fusion architecture. The system achieves high diagnostic performance while operating under real-world hardware constraints (2.0 GB VRAM), enabling deployment on standard clinical workstations in community hospitals without cloud dependencies.
+M³LungXAI-LF is the one of the first fully open-source multimodal explainable lung cancer diagnostic system that integrates CT imaging, chest X-ray, and clinical symptom extraction through a modular late fusion architecture. The system achieves high diagnostic performance while operating under real-world hardware constraints (2.0 GB VRAM), enabling deployment on standard clinical workstations in community hospitals without cloud dependencies.
 
 **Key Features:**
 - **CT Modality:** 95.88% accuracy, 99.63% ROC AUC (MobileNetV2)
