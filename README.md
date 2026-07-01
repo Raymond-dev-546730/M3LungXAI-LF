@@ -17,7 +17,7 @@ M³LungXAI-LF is the one of the first fully open-source multimodal explainable l
 
 ## Demo
 
-https://github.com/user-attachments/assets/4186db82-2595-4e96-baba-fa9945c7ea8a
+
 
 
 ## Repository Contents
