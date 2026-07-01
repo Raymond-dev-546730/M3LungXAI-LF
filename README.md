@@ -16,12 +16,7 @@ M³LungXAI-LF is one of the first fully open-source multimodal explainable lung 
 - **Explainability:** Instance-level visualisations for clinical trust and verification
 
 ## Demo
-
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/5bf0e6b6-1612-4e6f-9d95-751947e27838">
-    <img src="path/to/thumbnail.png" width="600" alt="Demo video — click to play">
-  </a>
-</p>
+https://github.com/user-attachments/assets/27e2718d-ac59-4eca-ae30-e1934b75b83b
 
 ## Repository Contents
 ~~~
