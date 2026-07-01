@@ -866,7 +866,7 @@ def upload():
     is_analyzing = st.session_state.get('analyzing', False)
     is_locked = st.session_state.get('run_analysis_clicked', False) or is_analyzing
     
-    st.title("M³LungXAI Clinical Diagnostic System")
+    st.title("M³LungXAI-LF Clinical Diagnostic System")
     st.markdown("AI-Assisted Multimodal Early Lung Cancer Detection")
     
     # Show analysis in progress message if analyzing
@@ -1161,7 +1161,7 @@ def results():
                    unsafe_allow_html=True)
 
 st.set_page_config(
-    page_title="M³LungXAI",
+    page_title="M³LungXAI-LF",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
