@@ -134,3 +134,17 @@ Models/
         └── Training/
             └── Train SM Terminal Logs.txt
 ~~~
+
+## Citation
+
+If you use this code or reference our work, please cite:
+```bibtex
+@misc{Lee2026,
+  author = {Lee, Raymond and Kadhar, Rehaan},
+  title = {M³LungXAI-LF: An Explainable Multi-Modal Late Fusion System for Improved Clinical Lung Cancer Diagnosis with Automated Medical Reporting},
+  year = {2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.21460957},
+  url = {https://zenodo.org/records/21460957}
+}
+```
