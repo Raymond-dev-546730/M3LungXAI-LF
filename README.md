@@ -3,7 +3,7 @@
 This repository contains the complete implementation, training scripts, evaluation code, and deployment system from:
 
 > **"M³LungXAI-LF: An Explainable Multi-Modal Late Fusion System for Improved Clinical Lung Cancer Diagnosis with Automated Medical Reporting"**  
-> *Accepted to the 2025 7th Asia Conference on Machine Learning and Computing (ACMLC)*  
+> *Accepted to the 2025 Asia Conference on Machine Learning and Computing (ACMLC)*  
 > Raymond Lee & Rehaan Kadhar
 
 ## Overview
